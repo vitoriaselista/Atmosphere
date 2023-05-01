@@ -17,7 +17,6 @@ I take great pride in the quality of the videos and am constantly working to imp
 >Future implementations:   
 
 *   **Jira integration**: I'm working on connecting the code with Jira in order to create a list of videos to be created with their related contents.
-*   **Pexels images**: 
 
 >Atmosphere is a complex Python program, and if it were to be made publicly available, it could be easily cloned or monetized. The code for Atmosphere is a valuable asset that has been carefully developed and optimized over time to ensure the highest level of performance and reliability. For this reason, the decision to keep the code for Atmosphere closed-source is a strategic one.
 
